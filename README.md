@@ -1,4 +1,4 @@
-<img align="center" src="![I'm Sharon]([https://www.canva.com/design/DAFGlF6VYj8/cg9bUwA8xyC-bTTCRCeINQ/watch?utm_content=DAFGlF6VYj8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFGlF6VYj8/yS_H8icqTYXLZjyCVrGx-A/edit?category=tACFapY0WQc))" width="600" height="200" />
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
                          
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
