@@ -1,7 +1,7 @@
 #
-[![Display.SVG](https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+(https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
 
-<p align="center"> Currently, I'm learning remote software development from <a href="https://www.microverse.org/">Microverse</a>. I spend most of my time learning different frameworks and technologies related to web development.</p>
+<p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
 
@@ -9,9 +9,14 @@
 <!-- - <p>You can check out my portfolio <a href="[https://somdotta-dev.netlify.app/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
 <br>
 
-- 🎓Recent Full-time student from Microverse 
-- I would like to contribute to the field of `Software development`    in the future.
-- 🔭 I’m currently working on JavaScript, CSS and HTML
-- 👯 I’m looking to collaborate on open source projects
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas and solving Problems.
-- 📫 How to reach me: 
+- 🎓Full-time student with Microverse 
+- 🔭 Currently working on HTML, JavaScript and CSS projects
+- 👯 Looking forward to more colabotative projects 
+- 💪🏼 I beleive in the continuously creative and solution focused living
+
+- 📫 Personal Adresss:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()    
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo100@gmail.com)
+
+- 😄 I love solving problems
+- ⚡ Open to new learn experiences
