@@ -1,5 +1,5 @@
 #
-<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
+<img align="center" src="[https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)" width="400" height="180" />
 
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
