@@ -25,6 +25,9 @@
 - 📫 Personal Adresss:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sharon%20Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonvictor/)](https://www.linkedin.com/in/sharon-odhiambo-4333a0163/)
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo100@gmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@sharon_victor_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/sharon_victor)
 
 Thankyou🎆
