@@ -1,5 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="180" />
-                         
+
+<h2> Hi, I'm Eli Villalejos! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>                         
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
 <div align="center">
