@@ -1,4 +1,4 @@
-<img align="center" src="![I'm Sharon](https://user-images.githubusercontent.com/88780311/179353553-2e9b4d86-3993-45c7-ad64-c7e155a74378.png)" width="600" height="200" />
+<img align="center" src="![I'm Sharon](https://www.canva.com/design/DAFGlF6VYj8/yS_H8icqTYXLZjyCVrGx-A/edit?utm_content=DAFGlF6VYj8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="600" height="200" />
                          
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
