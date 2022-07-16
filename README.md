@@ -9,13 +9,13 @@
 <!-- - <p>You can check out my portfolio <a href="[https://somdotta-dev.netlify.app/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
 <br>
 
-- 🎓Full-time student with Microverse 
-- 🔭 Currently working on HTML, JavaScript and CSS projects
-- 👯 Looking forward to more colabotative projects 
-- 💪🏼 I beleive in the continuously creative and solution focused living
+-     🎓Full-time student with Microverse 
+-     🔭 Currently working on HTML, JavaScript and CSS projects
+-     👯 Looking forward to more colabotative projects 
+-     💪🏼 I beleive in the continuously creative and solution focused living
 
 - 📫 Personal Adresss:
-- 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()   
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo100@gmail.com)
