@@ -24,7 +24,7 @@
 -     😄 I love solving problems
 -     ⚡ Open to new learn experiences
 
-- 📫 Personal Adresss:
+📫 Personal Adresss:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sharon%20Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonvictor/)](https://www.linkedin.com/in/sharon-odhiambo-4333a0163/)
 
