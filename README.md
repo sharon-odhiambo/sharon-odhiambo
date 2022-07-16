@@ -18,12 +18,14 @@
 -     🔭 Currently working on HTML, JavaScript and CSS projects
 -     👯 Looking forward to more colabotative projects 
 -     💪🏼 I beleive in the continuously creative and solution focused living
+  
+-     😄 I love solving problems
+-     ⚡ Open to new learn experiences
 
 - 📫 Personal Adresss:
- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()   
 
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/sharon-odhiambo-4333a0163/)
+[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo100@gmail.com)
 
-- 😄 I love solving problems
-- ⚡ Open to new learn experiences
+Thankyou🎆
