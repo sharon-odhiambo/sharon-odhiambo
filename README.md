@@ -1,6 +1,5 @@
 #
-https://www.canva.com/design/DAFGk82aOL4/nb24XgbdtXsXBAVmQRFw4g/edit?utm_content=DAFGk82aOL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+(https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
 
 <p align="center"> Currently, I'm learning remote software development from <a href="https://www.microverse.org/">Microverse</a>. I spend most of my time learning different frameworks and technologies related to web development.</p>
 <div align="center">
