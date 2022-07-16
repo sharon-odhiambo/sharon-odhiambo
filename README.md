@@ -15,6 +15,7 @@
 - 💪🏼 I beleive in the continuously creative and solution focused living
 
 - 📫 Personal Adresss:
+- 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()   
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharon.odhiambo100@gmail.com)
