@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" width="400" height="180" />
+<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="180" />
                          
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
