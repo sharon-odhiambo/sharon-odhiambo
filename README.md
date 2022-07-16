@@ -1,4 +1,5 @@
-<img align="center" src="https://www.canva.com/design/DAFGlF6VYj8/cg9bUwA8xyC-bTTCRCeINQ/view?utm_content=DAFGlF6VYj8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="400" height="180" />
+<img align="center" src="![I'm Sharon](https://user-images.githubusercontent.com/88780311/179354937-d5ca171c-f59d-43db-81b8-12da4108887d.png)
+" width="400" height="180" />
                          
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
