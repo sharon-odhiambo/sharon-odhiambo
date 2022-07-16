@@ -1,10 +1,9 @@
-<img align="center" src="![I'm Sharon](https://user-images.githubusercontent.com/88780311/179354937-d5ca171c-f59d-43db-81b8-12da4108887d.png)
-" width="400" height="180" />
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
                          
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
 <div align="center">
-<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
+<img align="center" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cqenud1r0n165xnhld1hal76wj464vbl2t7h2o37&rid=giphy.gif&ct=g" width="400" height="180" />
 
 </div>
 <!-- - <p>You can check out my portfolio <a href="[https://somdotta-dev.netlify.app/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
