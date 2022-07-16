@@ -1,5 +1,6 @@
 #
-(https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+(https://www.canva.com/design/DAFGk82aOL4/UNFeuMECrKRrT6N-esKZ_Q/view?utm_content=DAFGk82aOL4&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)![I'm Sharon](https://user-images.githubusercontent.com/88780311/179353401-1c5d41ae-6ef4-44e4-a7ed-216ddcdf245a.png)
+
 
 <p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
 <div align="center">
