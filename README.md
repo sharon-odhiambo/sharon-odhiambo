@@ -5,14 +5,12 @@
 
 
 
-<p align="center"> I'm currently advancing my skills in through a remote learning software development program from <a href="https://www.microverse.org/">Microverse</a>. I mostly spend my time exploring various frameworks related to web development.</p>
+<p align="center"> I'm currently advancing my skills in through a remote learning software development program at <a href="https://www.microverse.org/">Microverse</a>.<br> I mostly spend my time exploring various frameworks related to web development.</p>
 <div align="center">
   
 <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="180" />
 
 </div>
-<!-- - <p>You can check out my portfolio <a href="[https://somdotta-dev.netlify.app/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
-<br>
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="20"> A little more about me...  
 
