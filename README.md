@@ -14,7 +14,7 @@
 <!-- - <p>You can check out my portfolio <a href="[https://somdotta-dev.netlify.app/](https://github.com/TuyishimireEric/TuyishimireEric.github.io)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
 <br>
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="20"> A little more about me...  
 
 -     🎓Full-time student with Microverse 
 -     🔭 Currently working on HTML, JavaScript and CSS projects
