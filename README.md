@@ -8,11 +8,11 @@
 <br>
 <strong>A little more about me...</strong>
 
--     🎓 Full stack developer.
--     🔭 Enjoying bringing creative and innovative solutions using sustainable softwares.
--     👯 I enjoy spending time with friends either through collaborative sessions or just catching up and having a good time. 
--     😄 I love travelling, skating and solving problems. Oh and maths!
--     ⚡ Open to learn new experiences
+-  🎓 Full stack developer.
+-  🔭 Enjoying bringing creative and innovative solutions using sustainable softwares.
+-  👯 I enjoy spending time with friends either through collaborative sessions or just catching up and having a good time. 
+-  😄 I love travelling, skating and solving problems. Oh and maths!
+-  ⚡ Open to learn new experiences
 
 <div align="center"><p> 📫 Personal Adresss:</p>
 
