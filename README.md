@@ -16,7 +16,6 @@
 
 <div align="center"><p> 📫 Personal Adresss:</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sharon%20Odhiambo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonodhiambo/)](https://www.linkedin.com/in/sharonn-odhiambo/) [![Gmail](https://img.shields.io/badge/-sharon.odhiambo100@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&link=htttps:sharon.odhiambo100@gmail.com)](mailto:sharon.odhiambo100@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@sharonvictor16_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/sharonvictor16)
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Sharon%20Odhiambo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharonodhiambo/)](https://www.linkedin.com/in/sharonn-odhiambo/) [![Gmail](https://img.shields.io/badge/-sharon.odhiambo100@gmail.com-orange?style=flat-square&logo=gmail&logoColor=white&link=htttps:sharon.odhiambo100@gmail.com)](mailto:sharon.odhiambo100@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@sharonvictor16_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/sharonvictor16)</div>
 [![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharon-odhiambo&count_private=true&show_icons=true&theme=radical)](https://github.com/sharon-odhiambo/github-readme-stats)
 [![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sharon-odhiambo&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/sharon-odhiambo/github-readme-stats)
