@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="130">
 <div><em>
   <p>Remote Software Engineer ready for edventure!!</p>                         
-<p align="center"><a href="https://www.microverse.org/">Microverse</a>recent graduate.</p>
+<p align="center"><a href="https://www.microverse.org/">Microverse</a> recent graduate.</p>
   <p align="center">I mostly spend my time exploring various frameworks related to web development.</p></em></div>
 <br>
 <strong>A little more about me...</strong>
